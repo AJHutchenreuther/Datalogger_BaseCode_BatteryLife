@@ -9,4 +9,4 @@ Additional electrical components include
 Load and voltage divider needs to be designed to limit battery drain current (.02C approx) and limit max voltage input to Arduino.
 Program modification required to define voltage scale factor and define termination voltage for battery type being tested.
 
-Images show test setup for 6V sealed lead acid battery to answer the question: has the battery been damaged after a deep discharge?
+Images show test setup for 6V sealed lead acid battery to answer the question: has the battery been damaged after a deep discharge?  Typical recorded data is presented in an Excel workbook.
